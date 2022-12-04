@@ -22,6 +22,7 @@ div {
   margin-right: auto;
   height: 150px;
   position: relative;
+  overflow: auto;
 }
 
 .text {
