@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(213, 143, 13);
+  font-family: 'Roboto', sans-serif;
+  color:black;
+}
+
+#header-nav {
+  background-color: rgb(255, 202, 118);
+  border-radius: 0;
+  border: 0;
+
+}
+#top {
+  color: white;
+}
+a:link, a:visited {
+  color:white;
+  text-decoration: none;
+  cursor: default;
+}
+a:hover {
+  cursor:pointer;
+}
+#brandname {
+  font-size: 28px;
+  margin-top: 0px;
+  padding-top: 0;
+  text-align: center;
+  font-weight: bold;
+  width: 140px;
+  height: 40px;
+  text-shadow: 1px 1px 1px black;
+ }
+#nav-list {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#nav-list a {
+  color: black;
+  font-weight: bold;
+  /*border: solid rgb(0, 0, 0);*/
+  font-size: 1.4em;
+  background-color: brown;
+  text-align: center;
+  }
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+  border: 2px solid rgb(120, 82, 12);
+}
+
+#menu-title {
+  font-weight: bold;
+}
+.content {
+  background-color: bisque;
+  margin: 10px;
+}
+h2 {
+  padding-top: 10px;
+}
